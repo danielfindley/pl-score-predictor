@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+torch
+scikit-learn
+optuna
+xgboost
+catboost
+lxml
